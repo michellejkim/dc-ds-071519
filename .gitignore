@@ -124,5 +124,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 # Data Files
 ./Module-1/week-2/day-7-pandas-part-3/data
+=======
+# Large files
+data/
+*.json
+*.zip
+>>>>>>> 5024df0a9a3e4cc01bcd55f29a897fa7daddadba
