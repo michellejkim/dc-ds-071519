@@ -1,7 +1,7 @@
 import pandas as pd
 
-def merge_intake_outcomes():
-        """
+def merge_intake_outcomes(intake_dataset, outcomes_dataset):
+    """
     This function:
         - merges intake_dataset with outcomes_dataset
         - creates new variable `days_in_shelter`

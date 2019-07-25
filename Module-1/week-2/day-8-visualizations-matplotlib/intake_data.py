@@ -7,7 +7,7 @@
 import pandas as pd
 
 def process_intake_data():
-        """
+    """
     This function:
         - reads in intake data
         - cleans and prep-processes it
@@ -15,7 +15,7 @@ def process_intake_data():
     """
     # read in some data
     intakes = pd.read_csv('https://data.austintexas.gov/api/views/wter-evkm/rows.csv?accessType=DOWNLOAD')
-
+    
     # rename columns
     new_names = ['id', 'name', 'i_date', 'monthyear', 'found_loc', 'intake_type', 'intake_con', 'type', 'sex', 'age', 'breed', 'color']
     intakes.columns = new_names
