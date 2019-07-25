@@ -126,10 +126,12 @@ dmypy.json
 
 <<<<<<< HEAD
 # Data Files
-./Module-1/week-2/day-7-pandas-part-3/data
+/Module-1/week-2/day-7-pandas-part-3/data
+/Blogs/20190723/Data
 =======
 # Large files
 data/
 *.json
 *.zip
+*.csv
 >>>>>>> 5024df0a9a3e4cc01bcd55f29a897fa7daddadba
