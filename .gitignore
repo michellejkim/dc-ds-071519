@@ -138,4 +138,5 @@ dmypy.json
 *.json
 *.zip
 *.csv
+*.db
 >>>>>>> 5024df0a9a3e4cc01bcd55f29a897fa7daddadba
