@@ -134,7 +134,7 @@ dmypy.json
 /Warm_Ups/8_day/data
 =======
 # Large files
-/data/
+/data
 *.json
 *.zip
 *.csv
