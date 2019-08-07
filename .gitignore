@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-# Data files that are too large for github (.csv, .xls, .etc)
+# Data folders (.csv, .xls, .etc)
 data/
 
 # Distribution / packaging
@@ -128,11 +128,14 @@ dmypy.json
 .pyre/
 
 # Large files
-/data
 *.json
 *.zip
 *.csv
 *.db
+*.gz
+*.tar
+*.xlsx
+*.tsv
 
 <<<<<<< HEAD
 =======
