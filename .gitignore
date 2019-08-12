@@ -8,7 +8,6 @@ __pycache__/
 
 # Data folders (.csv, .xls, .etc)
 data/
-zippedData/
 
 # Distribution / packaging
 .Python
