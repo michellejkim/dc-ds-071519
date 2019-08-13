@@ -136,6 +136,10 @@ dmypy.json
 *.tar
 *.xlsx
 *.tsv
+*.tsv.gz
+*.csv.gz
+*.sql
+*.sqlite
 
 <<<<<<< HEAD
 =======
