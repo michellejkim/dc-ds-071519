@@ -7,8 +7,9 @@ __pycache__/
 *.so
 
 # Data folders (.csv, .xls, .etc)
-//data/
-//zippedData
+**/data
+**/zippedData
+**/Data
 
 # Distribution / packaging
 .Python
@@ -129,18 +130,18 @@ dmypy.json
 .pyre/
 
 # Large files
-*.json
-*.zip
-*.csv
-*.db
-*.gz
-*.tar
-*.xlsx
-*.tsv
-*.tsv.gz
-*.csv.gz
-*.sql
-*.sqlite
+**/*.json
+**/*.zip
+**/*.csv
+**/*.db
+**/*.gz
+**/*.tar
+**/*.xlsx
+**/*.tsv
+**/*.tsv.gz
+**/*.csv.gz
+**/*.sql
+**/*.sqlite
 
 <<<<<<< HEAD
 =======
