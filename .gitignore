@@ -130,18 +130,18 @@ dmypy.json
 .pyre/
 
 # Large files
-**/*.json
-**/*.zip
-**/*.csv
-**/*.db
-**/*.gz
-**/*.tar
-**/*.xlsx
-**/*.tsv
-**/*.tsv.gz
-**/*.csv.gz
-**/*.sql
-**/*.sqlite
+**.json
+**.zip
+**.csv
+**.db
+**.gz
+**.tar
+**.xlsx
+**.tsv
+**.tsv.gz
+**.csv.gz
+**.sql
+**.sqlite
 
 <<<<<<< HEAD
 =======
