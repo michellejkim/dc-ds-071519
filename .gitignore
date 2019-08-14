@@ -7,9 +7,9 @@ __pycache__/
 *.so
 
 # Data folders (.csv, .xls, .etc)
-**/data
-**/zippedData
-**/Data
+data/
+zippedData/
+Data/
 
 # Distribution / packaging
 .Python
